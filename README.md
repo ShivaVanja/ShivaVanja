@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivaVanja
-- 👀 I’m interested in ...blockchain development
-- 🌱 I’m currently learning ...python,javascript
+- 👀 I’m interested in ...full stack & blockchain development
+- 🌱 I’m currently learning ...Rust
 - 💞️ I’m looking to collaborate on ...internships
 - 📫 How to reach me ...shivareddyvanja@gmail.com
 
